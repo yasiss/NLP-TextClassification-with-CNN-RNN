@@ -6,5 +6,7 @@ In this homework, you will build machine learning models to detect the sentiment
 The PyTorch tutorials :
 
 https://pytorch.org/tutorials/beginner/pytorch_with_examples.html
+
 https://pytorch.org/tutorials/beginner/data_loading_tutorial.html
+
 https://github.com/yunjey/pytorch-tutorial
